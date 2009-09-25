@@ -1,0 +1,5 @@
+useDynLib(HybridMC)
+
+export(hybridMC)
+
+
